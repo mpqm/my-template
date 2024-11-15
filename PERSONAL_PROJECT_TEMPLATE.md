@@ -15,7 +15,7 @@
 #### ⚪ Built With
 <p align ="center">
 
-| *Category* |**Skills**| 
+| **Category** |**Skills**| 
 |-------------|---------|
 |**Language**| ![HTML5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![JAVA](https://img.shields.io/badge/java-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 |**Frontend**|  ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
