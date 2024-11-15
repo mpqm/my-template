@@ -51,47 +51,40 @@
 	<summary><b> 💡 프로젝트 배경</b></summary>
     <ul>
         <li>
-             <p>대학원생 한지선씨(30)는 인기 유튜버 '침착맨'의 팝업스토어에 방문하기 위해 치열한 예약 경쟁을 뚫었다. 침착맨 팬 커뮤니티에서 예약 팁도 전수받았지만 "인기 상품이 모두 품절돼 아쉬워 아침 일찍 다시 방문해 볼까 생각 중이다"라고 말했다.</p><br>
+             <p>참고 기사 1</p><br>
             <div align="left">
-                <img src="./docs/img/기사1.png" width=500, height=310><br>
-                <a>https://news.mt.co.kr/mtview.php?no=2024051609573785999</a>
+                <img src="{기사1}" width=500, height=310><br>
+                <a>{기사링크}</a>
             </div>
         </li>
-        <br>
         <li>
-            <p>더현대서울은 2021년 2월 개점 후 2023년 11월 중순까지 약 460회의 팝업스토어를 운영했다. 이틀에 한 개꼴로 새로운 팝업스토어를 연 셈이다. <br>‘임시 매장’의 이미지였던 팝업스토어가 ‘한정판 전문 매장’으로 진화했다고 본다. 운영 기간 제한이라는 팝업스토어의 특징이 ‘이때 아니면 못 산다’는 인식을 주게 되었다.</p><br>
+            <p>참고 기사 2</p><br>
             <div align="left">
-                <img src="./docs/img/기사2.png" width=500, height=300><br>
-                <a>https://www.donga.com/news/Economy/article/all/20231201/122446644/1</a>
+                <img src="{기사2}" width=500, height=310><br>
+                <a>{기사링크}</a>
             </div>
         </li>
     </ul>
 </details>
 
-<br>
-
-<details>
-	<summary><b> 🌱 프로젝트 v2 시작</b></summary>
-    <ul>
-        <li> 전 프로젝트는 끝났지만 미구현한 기능 및 프론트엔드가 미완성되어있었습니다.</li>
-        <br>
-        <li> 부실한 문서들을 개발문서들을 정리하고, GithubAction CICD를 추가해 시작했습니다.</li>
-        <br>
-        <li> 이에 리프레쉬 토큰 및 대기열을 추가한 프로젝트 v2를 개인으로 구성하고 시작했습니다.</li>
-        <br>
-    </ul>
-</details>
 
 <br>
 
 ## 💻 기술 스택
-| **Category**       | **Skills**                                                                                                                                                                                                                                               |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**       | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![Pinia](https://img.shields.io/badge/pinia-F99F1C?style=for-the-badge&logo=pinia&logoColor=white) |
-| **Backend**        | ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Spring JPA](https://img.shields.io/badge/springjpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **Database**       | ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)                             |
-| **Collaboration**  | ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) |
-| **CI/CD**          | ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)                                                                                                                                            |
+| *Category* |**Skills**| 
+|-------------|---------|
+|**Language**| ![HTML5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![JAVA](https://img.shields.io/badge/java-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+|**Frontend**|  ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
+|**Frontend**| ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)  |
+| **Database**| ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![Amazon S3](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)|
+| **Test**| ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![apachejmeter](https://img.shields.io/badge/jmeter-D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white) |
+| **Build**| ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![npm](https://img.shields.io/badge/npm-D24939?style=for-the-badge&logo=npm&logoColor=white) |
+| **CI/CD**|![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![k8s](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/amazonec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)|
+| **Monitoring & Infra**| ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |
+| **Collabo & Tools**| ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![vsc](https://img.shields.io/badge/VisualStudioCode-2F80ED.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) |
+|**MSA**| ![apachekafka](https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![axon](https://img.shields.io/badge/axonframework-FF9900?style=for-the-badge&logo=axonframework&logoColor=white) |
+|**BlockChain**| ![HyperLedgerFabric](https://img.shields.io/badge/HyperLedgerFabric-2496ED?style=for-the-badge&logo=HyperLedgerFabric&logoColor=white) |
+|**Contact**| ![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white) ![Gmail](https://img.shields.io/badge/okqkrwhdtjd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![NAVER](https://img.shields.io/badge/okqkrwhdtjd@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white) 
 
 <br>
 
